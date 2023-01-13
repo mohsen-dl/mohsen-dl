@@ -1,4 +1,4 @@
-### Hi there, I'm [Mohsen Dourandish LAngroudy](https://mohsen-dl.github.io) 👋
+### Hi there, I'm [Mohsen Dourandish Langroudy](https://mohsen-dl.github.io) 👋
 
 I am a Master of Data Science Student at Salford University. Apart from that I am developer that loves learning new and state of the art technologies.
 
