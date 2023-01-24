@@ -72,7 +72,6 @@ I am a Master of Data Science Student at Salford University. Apart from that I a
 | ------------- | ------------- |
 
 ![Jupyter Notebook](https://github-readme-stats.vercel.app/api/top-langs/?username={mohsen-dl}&theme=blue-gre)&nbsp;
-en
 
 <!-- 
 ----
