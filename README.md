@@ -5,7 +5,7 @@ I am a Master of Data Science Student at Salford University. Apart from that I a
 **My Research Interest**:
 - Classification
 - Clustering
-- Anomaly Detection
+- Recommender systems
 
  **I am open to**:
 
