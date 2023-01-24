@@ -71,8 +71,6 @@ I am a Master of Data Science Student at Salford University. Apart from that I a
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohsen-dl&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mohsen's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsen-dl&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-![Jupyter Notebook](https://github-readme-stats.vercel.app/api/top-langs/?username={mohsen-dl}&theme=blue-gre)&nbsp;
-
 <!-- 
 ----
 [<img src="https://github-profile-trophy.vercel.app/?username=mohsen-dl&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
