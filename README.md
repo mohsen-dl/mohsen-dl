@@ -3,6 +3,7 @@
 I am a Master of Data Science Student at Salford University. Apart from that I am developer that loves learning new and state of the art technologies.
 
 **My Research Interest**:
+- Regression
 - Classification
 - Clustering
 - Recommender systems
