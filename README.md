@@ -3,6 +3,7 @@
 I am a Master of Data Science Student at Salford University. Apart from that I am developer that loves learning new and state of the art technologies.
 
 **My Research Interest**:
+- Interactive Dashboard
 - Regression
 - Classification
 - Clustering
@@ -10,7 +11,8 @@ I am a Master of Data Science Student at Salford University. Apart from that I a
 
  **I am open to**:
 
-- any collobration work,
+- any collaboration work,
+- any data analysis,
 - machine learning projects.
 
 ## Skills:
