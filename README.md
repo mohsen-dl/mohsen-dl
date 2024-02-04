@@ -1,6 +1,6 @@
 ### Hi there, I'm [Mohsen Dourandish Langroudy](https://mohsen-dl.github.io) 👋
 
-I am a Master of Data Science Student at Salford University. Apart from that I am developer that loves learning new and state of the art technologies.
+I am a Data Scientist. Apart from that I am developer that loves learning new and state of the art technologies.
 
 **My Research Interest**:
 - Interactive Dashboard
